@@ -1,2 +1,2 @@
 # Python-Coding-Exercises
-Python Console based exercises
+Python Console based exercises for beginners
